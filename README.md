@@ -1,5 +1,5 @@
 # Infinity-Cat
-Infinity Cat é um projeto pessoal com objetuvo de lançar um jogo mobile na Google Play.
+Infinity Cat é um projeto pessoal com objetivo de lançar um jogo mobile na Google Play.
 
 (EM DESENVOLVIMENTO)
 
